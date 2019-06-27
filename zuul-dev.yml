@@ -2,7 +2,7 @@ server:
   port: 8083
 spring:
   application:
-    name: zuul-client-one
+    name:zuul-client-one
 eureka:
   client:
     service-url:
